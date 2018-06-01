@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // delete todo
 function deleteTodoItem(e) {
     if (e.target.classList.contains('close-btn')) {
-        if (confirm("Would you like to delete todo")) {
+        if (confirm("Would you like to delete?")) {
             e.target.parentElement.remove();
 
             // delete todo from local storage
