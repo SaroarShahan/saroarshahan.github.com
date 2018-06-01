@@ -1,0 +1,115 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600,700');
+
+/* reset css */
+*{
+    margin: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #f7f7f7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+}
+
+input[type='text'] {
+    width: 100%;
+    border: 1px solid #ddd;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+input[type='text']:hover,
+input[type='text']:focus {
+    border-color: #3498db;
+}
+
+.wrapper {
+    width: 40%;
+    margin: 20px auto;
+    background-color: #fff;
+    box-shadow: 0 0 20px rgba(0,0,0, .2);
+    border-radius: 2px;
+    padding: 20px;
+}
+
+.todosWrap {
+    margin-top: 25px;
+}
+
+.todoTitle {
+    margin: 0 0 15px;
+    text-transform: capitalize;
+}
+
+.todosList {
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid #ddd;
+}
+
+.todosList li {
+    border-bottom: 1px solid #ddd;
+    padding: 15px;
+    letter-spacing: 1.2px;
+    position: relative;
+}
+
+.todosList li:last-child {
+    border-bottom: 0px;
+}
+
+.close-btn::before {
+    content: "x";
+}
+
+.todosList li .close-btn {
+    display: inline-block;
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: all .4s ease 0s;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.todosList li .close-btn:hover {
+    color: #c0392b;
+}
+
+.add-btn {
+    display: inline-block;
+    background-color: #fff;
+    color: #3498db;
+    font-size: 8px;
+    border: 0px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .4s ease 0s;
+    border-radius: 2px;
+    box-shadow: 0 0 0 2px #3498db inset;
+}
+
+.add-btn:hover {
+    color: #fff;
+    box-shadow: 0 0 0 3em #3498db inset;
+}
+
+
+@media screen and (max-width: 800px) {
+    .wrapper {
+        width: 80%;
+    }
+}
