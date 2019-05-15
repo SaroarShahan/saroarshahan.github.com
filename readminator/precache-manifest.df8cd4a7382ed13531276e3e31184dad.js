@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34351b2a1f5de10e7d3b7fa947973ec7",
+    "revision": "c7123d8cc211282c91d1dc7cfac8e289",
     "url": "/readminator/index.html"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/readminator/static/js/10.e03ca776.chunk.js"
   },
   {
-    "revision": "82406c2211e8abc06751",
-    "url": "/readminator/static/js/11.9f2181dd.chunk.js"
+    "revision": "0b23d7f7aa12321a645d",
+    "url": "/readminator/static/js/11.f63516b7.chunk.js"
   },
   {
     "revision": "69989651559aae5de901",
@@ -68,7 +68,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/readminator/static/js/main.7ac50382.chunk.js"
   },
   {
-    "revision": "d6eb41ed762d05571c63",
-    "url": "/readminator/static/js/runtime~main.589ef853.js"
+    "revision": "52f90e2478772b07762a",
+    "url": "/readminator/static/js/runtime~main.20d6efe7.js"
   }
 ]);
