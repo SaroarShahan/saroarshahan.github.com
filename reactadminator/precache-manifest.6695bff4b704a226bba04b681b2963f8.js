@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10b09b35914fd44a1f1a2625eeeef432",
+    "revision": "9983d30a1b904d3e91fbb2d6e891b1fb",
     "url": "/reactadminator/index.html"
   },
   {
-    "revision": "0970e1d14fce36abeb3b",
+    "revision": "9b2dba5b61f077779107",
     "url": "/reactadminator/static/css/3.a553799d.chunk.css"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactadminator/static/css/6.a70447a2.chunk.css"
   },
   {
-    "revision": "0434494d2fbc28550111",
+    "revision": "92ae09fcd840faa73de3",
     "url": "/reactadminator/static/css/main.830f054d.chunk.css"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactadminator/static/js/10.a4d90aac.chunk.js"
   },
   {
-    "revision": "9cb358b2e95f15064b42",
-    "url": "/reactadminator/static/js/11.8865bef5.chunk.js"
+    "revision": "d1be294a56f5cb9859e4",
+    "url": "/reactadminator/static/js/11.489901be.chunk.js"
   },
   {
-    "revision": "6e5dfe887370bc71a445",
-    "url": "/reactadminator/static/js/12.8ca25703.chunk.js"
+    "revision": "f0336bd5615c16792161",
+    "url": "/reactadminator/static/js/12.af8076cc.chunk.js"
   },
   {
-    "revision": "0970e1d14fce36abeb3b",
-    "url": "/reactadminator/static/js/3.fa1c387d.chunk.js"
+    "revision": "9b2dba5b61f077779107",
+    "url": "/reactadminator/static/js/3.62b6b3cf.chunk.js"
   },
   {
     "revision": "d1724ea298d8b7ceb955",
@@ -64,12 +64,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactadminator/static/js/9.2dc14e8e.chunk.js"
   },
   {
-    "revision": "0434494d2fbc28550111",
-    "url": "/reactadminator/static/js/main.26196bd1.chunk.js"
+    "revision": "92ae09fcd840faa73de3",
+    "url": "/reactadminator/static/js/main.8db506db.chunk.js"
   },
   {
-    "revision": "361bce45c1db906e478e",
-    "url": "/reactadminator/static/js/runtime~main.ccd25ded.js"
+    "revision": "fafd0a8a947de7d80552",
+    "url": "/reactadminator/static/js/runtime~main.823f78e4.js"
   },
   {
     "revision": "a4afcfd3c3db3a28490f6844ae45cde8",
