@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "/paaponda/static/js/main.eccb9de1.chunk.js",
+    "main.js.map": "/paaponda/static/js/main.eccb9de1.chunk.js.map",
+    "runtime-main.js": "/paaponda/static/js/runtime-main.f7d77f13.js",
+    "runtime-main.js.map": "/paaponda/static/js/runtime-main.f7d77f13.js.map",
+    "static/js/2.2280d9ae.chunk.js": "/paaponda/static/js/2.2280d9ae.chunk.js",
+    "static/js/2.2280d9ae.chunk.js.map": "/paaponda/static/js/2.2280d9ae.chunk.js.map",
+    "static/css/3.c829125e.chunk.css": "/paaponda/static/css/3.c829125e.chunk.css",
+    "static/js/3.da5fe2db.chunk.js": "/paaponda/static/js/3.da5fe2db.chunk.js",
+    "static/js/3.da5fe2db.chunk.js.map": "/paaponda/static/js/3.da5fe2db.chunk.js.map",
+    "static/js/4.f8d7a524.chunk.js": "/paaponda/static/js/4.f8d7a524.chunk.js",
+    "static/js/4.f8d7a524.chunk.js.map": "/paaponda/static/js/4.f8d7a524.chunk.js.map",
+    "static/js/5.c4d53ae4.chunk.js": "/paaponda/static/js/5.c4d53ae4.chunk.js",
+    "static/js/5.c4d53ae4.chunk.js.map": "/paaponda/static/js/5.c4d53ae4.chunk.js.map",
+    "static/js/6.7dce9f2d.chunk.js": "/paaponda/static/js/6.7dce9f2d.chunk.js",
+    "static/js/6.7dce9f2d.chunk.js.map": "/paaponda/static/js/6.7dce9f2d.chunk.js.map",
+    "index.html": "/paaponda/index.html",
+    "precache-manifest.f85132f18b49abeb7d193cd1299a4142.js": "/paaponda/precache-manifest.f85132f18b49abeb7d193cd1299a4142.js",
+    "service-worker.js": "/paaponda/service-worker.js",
+    "static/css/3.c829125e.chunk.css.map": "/paaponda/static/css/3.c829125e.chunk.css.map",
+    "static/media/saroarshahan.jpg": "/paaponda/static/media/saroarshahan.a4afcfd3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7d77f13.js",
+    "static/css/3.c829125e.chunk.css",
+    "static/js/3.da5fe2db.chunk.js",
+    "static/js/main.eccb9de1.chunk.js"
+  ]
+}
